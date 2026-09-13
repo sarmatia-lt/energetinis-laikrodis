@@ -1,7 +1,5 @@
-# Energetinis laikrodis / Energy Clock
+# Energetinis laikrodis
 
-Public app: after Vercel deploy.
+Namai ir Tyrinėti. Saulės stiprumas = 100 × sin α. Versmės dalija dienos kiekį į 12.
 
-Languages: LT EN FR ES IT RU ID ZH.
-
-Install on Android: Chrome → Add to Home screen.
+Atidarykite index.html naršyklėje.
